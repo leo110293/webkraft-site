@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" fill="none">
+  <defs><linearGradient id="corp" x1="73" y1="76" x2="831" y2="628" gradientUnits="userSpaceOnUse"><stop stop-color="#E8E9DF"/><stop offset="1" stop-color="#C8D1C0"/></linearGradient><linearGradient id="tower" x1="516" y1="210" x2="767" y2="529" gradientUnits="userSpaceOnUse"><stop stop-color="#687F6B"/><stop offset="1" stop-color="#314739"/></linearGradient></defs>
+  <rect width="900" height="700" rx="28" fill="#202B23"/>
+  <rect x="72" y="55" width="756" height="590" rx="15" fill="url(#corp)"/>
+  <path d="M87 55h726a15 15 0 0 1 15 15v39H72V70a15 15 0 0 1 15-15Z" fill="#DADDCE"/>
+  <circle cx="99" cy="83" r="5" fill="#D87768"/><circle cx="117" cy="83" r="5" fill="#E5B85F"/><circle cx="135" cy="83" r="5" fill="#83A779"/>
+  <rect x="316" y="74" width="268" height="18" rx="9" fill="#C4C9B9"/>
+  <text x="109" y="145" fill="#26342A" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">ATELIER / BUILD</text>
+  <path d="M620 139h45m24 0h45m24 0h42" stroke="#61705F" stroke-width="2" stroke-linecap="round"/>
+  <rect x="96" y="170" width="708" height="345" rx="7" fill="#BCC9B3"/>
+  <circle cx="691" cy="236" r="42" fill="#E9DFC3"/>
+  <path d="M96 433 263 309l148 110 112-84 281 146v34H96v-82Z" fill="#82967B"/>
+  <path d="m461 318 127-114 164 112v199H461V318Z" fill="url(#tower)"/>
+  <path d="m439 322 149-137 189 125-14 25-174-113-132 121-18-21Z" fill="#25382C"/>
+  <path d="M491 343h43v42h-43zM553 343h43v42h-43zM615 343h43v42h-43zM677 343h43v42h-43zM491 409h43v42h-43zM553 409h43v42h-43zM615 409h43v42h-43zM677 409h43v42h-43z" fill="#DDE2D0"/>
+  <rect x="127" y="207" width="300" height="207" rx="5" fill="#F1F0E6" fill-opacity=".95"/>
+  <text x="155" y="251" fill="#29372C" font-family="Arial,sans-serif" font-size="29" font-weight="700">Build for</text>
+  <text x="155" y="286" fill="#29372C" font-family="Arial,sans-serif" font-size="29" font-weight="700">what's next.</text>
+  <path d="M155 311h209m-209 13h174" stroke="#899185" stroke-width="4" stroke-linecap="round"/>
+  <rect x="155" y="353" width="127" height="35" rx="17.5" fill="#C8FA56"/>
+  <path d="M176 371h72" stroke="#29372C" stroke-width="2" stroke-linecap="round"/>
+  <rect x="124" y="541" width="650" height="69" rx="5" fill="#F1F0E6"/>
+  <path d="M156 561h78" stroke="#26342A" stroke-width="3"/><path d="M156 578h109m71-17h78m-78 17h121m71-17h91m-91 17h105" stroke="#9DA497" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="722" cy="576" r="15" fill="#C8FA56"/><path d="m718 576 3 3 6-7" stroke="#26342A" stroke-width="2" stroke-linecap="round"/>
+</svg>

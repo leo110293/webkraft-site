@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" fill="none">
+  <defs><linearGradient id="shopbg" x1="105" y1="76" x2="790" y2="640" gradientUnits="userSpaceOnUse"><stop stop-color="#F0EBDD"/><stop offset="1" stop-color="#D8D8C8"/></linearGradient></defs>
+  <rect width="900" height="700" rx="28" fill="#273229"/>
+  <rect x="71" y="57" width="758" height="586" rx="15" fill="url(#shopbg)"/>
+  <path d="M86 57h728a15 15 0 0 1 15 15v39H71V72a15 15 0 0 1 15-15Z" fill="#E5E3D6"/>
+  <circle cx="98" cy="85" r="5" fill="#D87768"/><circle cx="116" cy="85" r="5" fill="#E5B85F"/><circle cx="134" cy="85" r="5" fill="#83A779"/>
+  <rect x="314" y="76" width="270" height="18" rx="9" fill="#CFD0C2"/>
+  <text x="109" y="149" fill="#26342A" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">FORM / OBJECTS</text>
+  <path d="M615 143h43m24 0h42m24 0h42" stroke="#65705E" stroke-width="2" stroke-linecap="round"/>
+  <text x="109" y="205" fill="#29372C" font-family="Arial,sans-serif" font-size="27" font-weight="700">Objects for everyday rituals</text>
+  <rect x="105" y="228" width="213" height="315" rx="5" fill="#E6D8C4"/>
+  <rect x="343" y="228" width="213" height="315" rx="5" fill="#D5DED0"/>
+  <rect x="581" y="228" width="213" height="315" rx="5" fill="#E1DED1"/>
+  <ellipse cx="211" cy="438" rx="67" ry="14" fill="#4B3A2D" fill-opacity=".12"/>
+  <path d="M164 338a47 47 0 0 1 94 0v75h-94v-75Z" fill="#B2774C"/>
+  <path d="M164 354h94" stroke="#E5C79C" stroke-width="7"/>
+  <path d="M258 352h18a23 23 0 0 1 0 46h-18" stroke="#94623F" stroke-width="9"/>
+  <path d="M188 310c-8-12 8-18 1-29m27 29c-8-12 8-18 1-29m27 29c-8-12 8-18 1-29" stroke="#8B7259" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="450" cy="408" rx="62" ry="24" fill="#53634C"/>
+  <path d="M392 401c0 25 26 44 58 44s58-19 58-44" fill="#748368"/>
+  <ellipse cx="450" cy="400" rx="58" ry="19" fill="#C7D0BC"/>
+  <path d="M424 398c17-17 36-17 53 0-17 16-36 16-53 0Z" fill="#77866D"/>
+  <path d="M437 385v26" stroke="#E7E8DA" stroke-width="3"/>
+  <path d="M658 337h60v99h-60z" fill="#C58D62"/>
+  <path d="M650 337h76l-7-29h-62l-7 29Z" fill="#9A6B4E"/>
+  <path d="M663 308c-1-18 10-34 25-46 17 12 27 28 26 46" fill="#71866A"/>
+  <path d="M687 290v-27m0 16-13-12m13 19 14-12" stroke="#506D4B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M128 569h105m-105 15h65m176-15h104m-104 15h67m171-15h106m-106 15h74" stroke="#8B9081" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="760" cy="574" r="15" fill="#C8FA56"/><path d="M754 574h12m-5-5 5 5-5 5" stroke="#26342A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

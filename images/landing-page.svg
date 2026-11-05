@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" fill="none">
+  <defs><linearGradient id="coffeeBg" x1="90" y1="80" x2="830" y2="650" gradientUnits="userSpaceOnUse"><stop stop-color="#E9E3D4"/><stop offset="1" stop-color="#C9C8AF"/></linearGradient><linearGradient id="coffee" x1="500" y1="270" x2="680" y2="530" gradientUnits="userSpaceOnUse"><stop stop-color="#AA754A"/><stop offset="1" stop-color="#614632"/></linearGradient></defs>
+  <rect width="900" height="700" rx="28" fill="#263128"/>
+  <rect x="74" y="58" width="752" height="584" rx="14" fill="url(#coffeeBg)"/>
+  <path d="M88 58h724a14 14 0 0 1 14 14v40H74V72a14 14 0 0 1 14-14Z" fill="#DEDACB"/>
+  <circle cx="99" cy="86" r="5" fill="#D87768"/><circle cx="117" cy="86" r="5" fill="#E5B85F"/><circle cx="135" cy="86" r="5" fill="#83A779"/>
+  <rect x="321" y="77" width="258" height="18" rx="9" fill="#C9C8BA"/>
+  <text x="112" y="151" fill="#28352C" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">MORNING / ROASTERS</text>
+  <path d="M613 146h42m22 0h42m22 0h42" stroke="#596250" stroke-width="2" stroke-linecap="round"/>
+  <text x="116" y="246" fill="#28352C" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Make room</text>
+  <text x="116" y="307" fill="#28352C" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">for slow</text>
+  <text x="116" y="368" fill="#73845E" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">mornings.</text>
+  <path d="M119 401h274" stroke="#9D9F88" stroke-width="2"/>
+  <path d="M118 427h224m-224 14h190" stroke="#777A69" stroke-opacity=".6" stroke-width="4" stroke-linecap="round"/>
+  <rect x="118" y="473" width="160" height="44" rx="22" fill="#C8FA56"/>
+  <text x="145" y="500" fill="#28352C" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">FIND YOUR ROAST</text>
+  <ellipse cx="631" cy="535" rx="127" ry="20" fill="#29352A" fill-opacity=".18"/>
+  <path d="M551 270h151l-16 223a25 25 0 0 1-25 23h-69a25 25 0 0 1-25-23l-16-223Z" fill="url(#coffee)"/>
+  <path d="M551 292h151" stroke="#E3D9BD" stroke-width="8"/>
+  <path d="M568 331h117" stroke="#F0E7D1" stroke-opacity=".42" stroke-width="3"/>
+  <path d="M585 355c19-20 45-20 64 0-19 20-45 20-64 0Z" fill="#D7C2A0"/>
+  <path d="M618 337v37" stroke="#D7C2A0" stroke-width="3"/>
+  <path d="M703 322h26a37 37 0 0 1 0 74h-30" stroke="#8A6548" stroke-width="12"/>
+  <path d="M578 235c-13-19 12-29 1-48m41 48c-13-19 12-29 1-48m41 48c-13-19 12-29 1-48" stroke="#F6F1DF" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="762" cy="234" r="34" fill="#C8FA56"/><path d="m750 235 9 9 17-20" stroke="#28352C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
